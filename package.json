@@ -1,0 +1,40 @@
+{
+  "name": "ai-project-delivery",
+  "version": "0.1.0",
+  "description": "AI 项目交付方法论：用编码代理从需求对齐到上线的端到端框架，含非技术用户模式。",
+  "type": "module",
+  "license": "MIT",
+  "author": {
+    "name": "anjiecobamboo-blip",
+    "email": "anjiecobamboo@gmail.com"
+  },
+  "homepage": "https://github.com/anjiecobamboo-blip/ai-project-delivery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjiecobamboo-blip/ai-project-delivery.git"
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "agent-skill",
+    "ai-coding",
+    "spec-driven",
+    "workflow",
+    "non-technical"
+  ],
+  "files": [
+    "SKILL.md",
+    "references",
+    "agents",
+    "cordis.patch.yml",
+    "README.md",
+    "README.en.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
