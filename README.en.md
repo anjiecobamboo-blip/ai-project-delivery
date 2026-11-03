@@ -90,7 +90,7 @@ DeepSeek Harness discovers the root `SKILL.md` automatically and hot-reloads; Co
 A real case: a non-technical user went from one sentence to a working, verifiable local e-commerce image tool in **37 minutes**.
 
 - [Case 01: a local e-commerce image tool in 37 minutes](./docs/case-01-ecommerce-image-tool.md) (in Chinese)
-- [Case 02: adding AI scene generation (mock-first, real API unverified)](./docs/case-02-ai-scene.md) (in Chinese)
+- [Case 02: adding AI scene generation, plus DeepSeek prompt refinement and vision QC (mock-first, real APIs unverified)](./docs/case-02-ai-scene.md) (in Chinese)
 - Includes: alignment questions, scope decisions, automated acceptance output, rework cycles, a stage-by-stage framework audit, honest limitations and retrospectives
 
 ## Relationship to other frameworks
