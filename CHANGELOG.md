@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.2 — 2026-11-04
+
+- 新增真实案例：[案例 01：37 分钟做一个本地电商作图工具](docs/case-01-ecommerce-image-tool.md)
+- 新增 3 张压缩截图（`docs/assets/case-01/`，共约 182 KB）
+- README / README.en.md 增加案例入口
+- `package.json` 的 `files` 增加 `docs`
+- 版本号更新至 0.1.2
+
 ## 0.1.1 — 2026-11-04
 
 - README：新增「为什么是它：一个决策层」差异化说明（立场 / 对象 / 载体 / 证据、适合与不适合、与生态的组合方式）

@@ -85,6 +85,13 @@ DeepSeek Harness discovers the root `SKILL.md` automatically and hot-reloads; Co
 | Non-technical user mode | question limits, demo-based acceptance, safety nets, fixed phrasing |
 | Harness mappings | DeepSeek Harness / Claude Code / Codex equivalents |
 
+## Case study
+
+A real case: a non-technical user went from one sentence to a working, verifiable local e-commerce image tool in **37 minutes**.
+
+- [Case 01: a local e-commerce image tool in 37 minutes](./docs/case-01-ecommerce-image-tool.md) (in Chinese)
+- Includes: alignment questions, scope decision (why v1 deliberately skipped AI), automated acceptance output, one rework cycle, a stage-by-stage framework audit, honest limitations and a retrospective
+
 ## Relationship to other frameworks
 
 | Project | Positioning | Difference |

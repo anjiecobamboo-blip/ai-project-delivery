@@ -99,6 +99,13 @@ git clone https://github.com/anjiecobamboo-blip/ai-project-delivery.git "$HOME\.
 | 非技术用户模式 | 用户不懂代码时的切换规则、阶段适配、验收模板、安全网与固定话术 |
 | 跨 harness 映射 | Claude Code / Codex / DSH 的等价操作 |
 
+## 案例
+
+一个真实案例：不懂代码的用户，**37 分钟**从一句话到一个可双击使用、可验收的本地电商作图工具。
+
+- [案例 01：37 分钟做一个本地电商作图工具](./docs/case-01-ecommerce-image-tool.md)
+- 含：需求对齐过程、范围决策（为什么 v1 不接 AI）、自动验收输出、一次返工、框架对照表、诚实边界与复盘
+
 ## 与现有框架的关系
 
 | 项目 | 定位 | 与本仓库的差异 |
