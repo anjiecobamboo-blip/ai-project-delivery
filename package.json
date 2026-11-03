@@ -1,6 +1,6 @@
 {
   "name": "ai-project-delivery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI 项目交付方法论：用编码代理从需求对齐到上线的端到端框架，含非技术用户模式。",
   "type": "module",
   "license": "MIT",
