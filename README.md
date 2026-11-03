@@ -104,6 +104,7 @@ git clone https://github.com/anjiecobamboo-blip/ai-project-delivery.git "$HOME\.
 一个真实案例：不懂代码的用户，**37 分钟**从一句话到一个可双击使用、可验收的本地电商作图工具。
 
 - [案例 01：37 分钟做一个本地电商作图工具](./docs/case-01-ecommerce-image-tool.md)
+- [案例 02：给工具加「AI 换场景」（mock 优先，真实 API 待验证）](./docs/case-02-ai-scene.md)
 - 含：需求对齐过程、范围决策（为什么 v1 不接 AI）、自动验收输出、一次返工、框架对照表、诚实边界与复盘
 
 ## 与现有框架的关系

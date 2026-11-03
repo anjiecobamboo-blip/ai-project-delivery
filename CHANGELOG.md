@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.3 — 2026-11-04
+
+- 新增案例 02：[给已上线的小工具加「AI 换场景」（mock 优先，真实 API 待验证）](docs/case-02-ai-scene.md)
+- 新增 2 张截图（`docs/assets/case-02/`）
+- README / README.en.md 案例入口加入案例 02
+- 版本号更新至 0.1.3
+
 ## 0.1.2 — 2026-11-04
 
 - 新增真实案例：[案例 01：37 分钟做一个本地电商作图工具](docs/case-01-ecommerce-image-tool.md)
